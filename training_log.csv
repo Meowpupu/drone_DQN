@@ -1,0 +1,3 @@
+episode,total_reward,steps,epsilon,result
+1,-283.000,184,0.5452,collision
+2,-268.000,169,0.2337,collision
