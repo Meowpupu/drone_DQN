@@ -1,0 +1,30 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "ClockSpeed": 1,
+  "Vehicles": {
+    "Drone1": {
+      "VehicleType": "SimpleFlight",
+      "AutoCreate": true,
+      "X": 0,
+      "Y": 0,
+      "Z": -30
+    }
+  },
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 0,
+        "Width": 640,
+        "Height": 360,
+        "FOV_Degrees": 90
+      },
+      {
+        "ImageType": 2,
+        "Width": 160,
+        "Height": 90,
+        "FOV_Degrees": 90
+      }
+    ]
+  }
+}
